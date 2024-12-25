@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://www.measuretape.co.in</homePageLink>
+		<homePageLink>https://www.spacerevolution.co.in</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://www.measuretape.co.in/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://www.measuretape.co.in/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://www.measuretape.co.in/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://www.measuretape.co.in/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://www.measuretape.co.in/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://www.spacerevolution.co.in/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://www.spacerevolution.co.in/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://www.spacerevolution.co.in/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://www.spacerevolution.co.in/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://www.spacerevolution.co.in/wp-json/" />
 			</apis>
 	</service>
 </rsd>
